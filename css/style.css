@@ -62,3 +62,10 @@ body {
 .mytost {
   background-color: red;
 }
+/* explore style */
+.explore-title {
+  margin-bottom: 60px;
+}
+.explore-overlay {
+  background-color: rgb(0, 0, 0, 0.5);
+}
