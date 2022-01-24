@@ -20,3 +20,12 @@ body {
   right: 0;
   background-color: rgba(0, 0, 0, 0.6);
 }
+
+/* Every moment section */
+.wedding {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.wedding-btn {
+  background-color: #3f87f5;
+}
